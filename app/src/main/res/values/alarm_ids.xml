@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="alarm_start_mon">100</integer>
+    <integer name="alarm_start_tue">101</integer>
+    <integer name="alarm_start_wen">102</integer>
+    <integer name="alarm_start_thu">103</integer>
+    <integer name="alarm_start_fri">104</integer>
+    <integer name="alarm_start_sat">105</integer>
+    <integer name="alarm_start_sun">106</integer>
+
+    <integer name="alarm_stop_mon">200</integer>
+    <integer name="alarm_stop_tue">201</integer>
+    <integer name="alarm_stop_wen">202</integer>
+    <integer name="alarm_stop_thu">203</integer>
+    <integer name="alarm_stop_fri">204</integer>
+    <integer name="alarm_stop_sat">205</integer>
+    <integer name="alarm_stop_sun">206</integer>
+</resources>

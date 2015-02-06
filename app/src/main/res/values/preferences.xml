@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_mon">mon</string>
+    <string name="pref_tue">tue</string>
+    <string name="pref_wen">wen</string>
+    <string name="pref_thu">thu</string>
+    <string name="pref_fri">fri</string>
+    <string name="pref_sat">sat</string>
+    <string name="pref_sun">sun</string>
+
+    <string name="pref_time_disable_hour">start_hour</string>
+    <string name="pref_time_disable_min">start_min</string>
+    <string name="pref_time_enable_hour">stop_hour</string>
+    <string name="pref_time_enable_min">stop_min</string>
+    <string name="pref_vibration">vibration</string>
+    <string name="pref_repeat">repeat</string>
+    <string name="pref_notification">notification</string>
+</resources>
